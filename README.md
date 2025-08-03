@@ -7,13 +7,13 @@ A simple Streamlit app template for you to modify!
 ### How to run it on your own machine
 
 1. Install the requirements
-
+this app requires streamlit module
    ```
    $ pip install -r requirements.txt
-   ```
+ pip install streamlit  ```
 
 2. Run the app
-
+you can enter named reaction or organic synthesis and get the response/you can also add new reations and description thereof.
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run streamlit_synthesis_app.py
    ```
